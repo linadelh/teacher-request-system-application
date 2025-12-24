@@ -42,22 +42,5 @@ the main goal was to propose a *digital solution that simplifies and modernizes 
 ### 5. Development and Testing Tools  
 - **Canva** for diagrams and functional flowcharts  
 - **VS Code** as the primary code editor  
-- **Terminal / Command Prompt** for running npm, node commands, etc.  
-- **Postman** for API testing, documentation, and automation  
-
----
-
-
-
-##  Installation and Setup
-
-```bash
-1. open a terminal 
-2. Clone the repository:  
-git clone https://github.com/linadelh/fiche_voeux.git
-3. write this commands 
-cd fiche_voeux
-npm install
-node app.js
-*⚠️ Database import is mandatory*
+- **Postman** for API testing,
  
